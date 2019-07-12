@@ -6,6 +6,7 @@ console.log(genNum);
 var guessNum = prompt("Guess The Random Number From 1 to 5 : ");
 
 console.log(guessNum);
+
 //Check if the number is correct or not:
 if (genNum == guessNum) {
     console.log(true);
