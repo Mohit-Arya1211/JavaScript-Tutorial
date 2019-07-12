@@ -1,4 +1,5 @@
 //Generate a Random Number:
+
 var genNum = Math.ceil(Math.random() * 5);
 console.log(genNum);
 // Ask The User to guess the number:
