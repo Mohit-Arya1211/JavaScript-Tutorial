@@ -29,11 +29,11 @@ switch(today){
         break;
     case 6 :
         result = "Saturday";
-        break;
-        
+        break;     
 }
 // 3 - Ask the user to enter the Day :
 var userInput = prompt(" Enter the Today's Day :");
+
 // 4 - We check is it is correct and alert the user :
 if(userInput == result){
     alert("You Won");
