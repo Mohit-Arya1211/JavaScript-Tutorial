@@ -1,9 +1,9 @@
 alert("Hi! User");
-// 1 - Get The Date :
 
+// 1 - Get The Date :
 var date = new Date();
 console.log(date);
- 
+
 // 2 - Get the day from the date : 
 var today = date.getDay();
 console.log(today);
