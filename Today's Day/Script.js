@@ -1,10 +1,14 @@
 alert("Hi! User");
+<<<<<<< HEAD
 
 // 1 - Get The Date :
+=======
+>>>>>>> cdfe114f3dcadec963e216ffe19ab63ed6a7535f
 
+// 1 - Get The Date :
 var date = new Date();
 console.log(date);
- 
+
 // 2 - Get the day from the date : 
 
 var today = date.getDay();
@@ -31,8 +35,7 @@ switch(today){
         break;
     case 6 :
         result = "Saturday";
-        break;
-        
+        break;     
 }
 // 3 - Ask the user to enter the Day :
 
