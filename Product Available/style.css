@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 h1{
     padding: 20px;
     margin: 20px;
@@ -12,39 +12,13 @@ p{
     margin: 20px;
     font-size: 1.5em;
 }
-.Info{
+.info{
     background-color: #ececec;
 }
-.Error{
+.error{
     background-color: red;
     color: white;
 }
-.Success{
+.success{
     background-color: forestgreen;
-    color: white;
-=======
-h1{
-    padding: 20px;
-    margin: 20px;
-    text-align: center;
-    background-color: blue;
-    color: white;
-    font-size: 2.5em;
-}
-p{
-    padding: 20px;
-    margin: 20px;
-    font-size: 1.5em;
-}
-.Info{
-    background-color: #ececec;
-}
-.Error{
-    background-color: red;
-    color: white;
-}
-.Success{
-    background-color: forestgreen;
-    color: white;
->>>>>>> cdfe114f3dcadec963e216ffe19ab63ed6a7535f
-}
+    color: white;}
