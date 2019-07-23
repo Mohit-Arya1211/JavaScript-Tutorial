@@ -1,0 +1,15 @@
+h1{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    background-color: #ececec;
+    color: teal;
+    font-size: 2.2em;
+}
+p{
+    padding: 20px;
+    margin: 20px;
+    background-color: #ececec;
+    word-wrap: break-word;
+    letter-spacing: 5px;
+}
