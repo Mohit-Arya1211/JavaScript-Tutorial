@@ -1,0 +1,12 @@
+h1{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    width: 35%;
+}
