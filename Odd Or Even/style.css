@@ -4,9 +4,31 @@ h1{
     text-align: center;
     background-color: white;
 }
+body{
+    text-align: center;
+}
 div{
     padding: 20px;
     margin: 20px;
     display: inline-block;
     width: 35%;
+    text-align: left; 
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+h2{
+    padding: 10px 0px;
+}
+li{
+    padding: 10px 0px
+}
+.odd{
+    background-color: red;
+    color: aliceblue;
+}
+.even{
+    background-color: green;
+    color: aliceblue;
 }
