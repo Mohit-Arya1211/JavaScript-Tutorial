@@ -121,12 +121,6 @@ snooze.onclick = function () {
     } else {
         return false;
     }
-        function myFunction1() {
-            document.getElementsById("contentContainer").style.marginTop = "0px";
-        }
-    
-        function myFunction2() {
-            document.getElementsById("contentContainer").style.marginBottom = "300px";
-        }
+
 
 };
